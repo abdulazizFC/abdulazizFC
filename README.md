@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Wellcome+to+profile+of;+Akhmadjanov+Abdulaziz;" />
 </h1>
 ​
-<h3 align="center">I am a software engineer and exterier & interier designer in Uzbekistan </h2>
+<h2 align="center">I am a software engineer and exterier & interier designer in Uzbekistan </h2>
 ​
 <br/>
 ​
